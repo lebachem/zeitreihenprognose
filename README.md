@@ -7,7 +7,7 @@ Vergleiche auch das Notebook von Greg Hogg (https://colab.research.google.com/dr
 
 ## Python Version
 
-Ich empfehle Python 3.9.6 für diese Notebook
+Ich empfehle Python 3.9.6 für dieses Notebook
 
 ## Installation der Bibliotheken
 
